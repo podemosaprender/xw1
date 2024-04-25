@@ -1,1 +1,14 @@
-{}
+{
+  "name": "XXX:edit config.json",
+  "description": "This is a placeholder description.",
+	"navbar_items": [
+		{
+			"name": "Mi seccion1",
+			"url": "/libro/zoologia/"
+		},
+		{
+			"name": "About me",
+			"url": "about:blank"
+		}
+	]
+}
